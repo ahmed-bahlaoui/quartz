@@ -6,4 +6,6 @@ Context determines how the model understands and continues a conversation, compl
 
 MCP is an open protocol that standardizes how your LLM applications connect to and work with your tools and data sources.
 
+Secure connections between such systems are often protected by asymmetric cryptography like the [[RSA Algorithm|RSA algorithm]].
+
 For more on the models these connect to, see [[Convolutional Neural Networks|neural networks]] and related notes in this garden. Live at [[My Digital Garden|home]]. 
