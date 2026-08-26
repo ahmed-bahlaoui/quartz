@@ -1,4 +1,4 @@
-![](images/rsa_cover.png)
+!["RSA cover"](images/rsa_cover.png)
 # Introduction
 
 The RSA algorithm named after the initials of it's 3 inventors (**R**ivest-**S**hamir- **A**dleman) is an **asymmetric** encryption algorithm or **public-key cryptography** algorithm which means it works on two different keys:
